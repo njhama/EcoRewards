@@ -19,13 +19,13 @@
 
 h1#title {
     text-align: center;
-    color: rgb(18, 247, 18);
+    color: rgb(59, 119, 57);
     font-size: 120px;
 
 }
 
 h2 {
-    color:rgb(130, 184, 128)
+    color:rgb(87, 182, 83)
 }
 
 
@@ -38,6 +38,24 @@ button {
     margin-top: 500px;
     width: 250px;
     height: 80px;
-    border-radius: 150px;
+    
+}
+
+.btn-success
+{
+    border-radius: 200px;
+    background-color: rgb(59, 119, 57);
+    font-weight: bolder;
+    outline-color: rgb(59, 119, 57);
+    
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
 }
 
