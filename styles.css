@@ -1,0 +1,22 @@
+#content {
+    position: absolute;
+    height: 500px;
+    align-items: center;
+}
+
+.mywidth {
+    
+    width: 1000px;
+    margin: 0 auto;
+
+
+}
+
+#title {
+    
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
