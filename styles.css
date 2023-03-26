@@ -1,8 +1,6 @@
 #content {
     position: absolute;
-    height: 100px;
-    
-    
+    height: 100px;  
     top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -19,7 +17,7 @@
 
 h1#title {
     text-align: center;
-    color: rgb(59, 119, 57);
+    color: rgb(68, 214, 63);
     font-size: 120px;
 
 }
@@ -35,7 +33,7 @@ body {
 }
 
 button {
-    margin-top: 500px;
+    margin-top: 60%;
     width: 250px;
     height: 80px;
     

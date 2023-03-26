@@ -1,7 +1,10 @@
 body {
-    background-color: black;
+    background-color: rgb(145, 231, 164);
 }
 
+#content-main {
+    background-color: rgb(145, 231, 164);
+}
 
 #navbar {
     height: 70px;
@@ -29,13 +32,18 @@ body {
 
 #navleft {
     text-decoration: none;
-    margin-top: 20px;
+    margin-top: 10px;
     float: left;
+    width: 10px;
+}
+
+#navleft img {
+    height: 50px;
 }
 
 #navright {
     text-decoration: none;
-    margin-top: 20px;
+    margin-top: 25px;
     margin-left: 5px;
     margin-right: 15px;
     float: right;
@@ -51,15 +59,30 @@ body {
 }
 
 .mywidth {
-    width: 1100px;
+    width: 1200px;
     margin: 0 auto;
     background-color: rgb(84, 150, 150);
     height: auto;
 }
 
 #about {
-    height: 900px;
-    background-color: aqua;
+    height: 100vh;
+    margin-top: 90px;
+    padding-top: 100px;
+    
+    
+}
+
+#location {
+    height: 100vh;
+    padding-top: 100px;
+    
+}
+
+#rewards {
+    height: 100vh;
+    padding-top: 100px;
+    
 }
 
 
