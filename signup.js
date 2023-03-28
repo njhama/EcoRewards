@@ -1,5 +1,5 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyATMj2xN4wXnvh8mNatJFgGb7abN2K_NTA",
+    apiKey: API_KEY_HERE,
     authDomain: "ecorewards-da486.firebaseapp.com",
     projectId: "ecorewards-da486",
     storageBucket: "ecorewards-da486.appspot.com",
