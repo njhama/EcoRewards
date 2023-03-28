@@ -1,4 +1,4 @@
-const API_KEY = "pk.eyJ1Ijoibmlja3loYW1hIiwiYSI6ImNsMHIwbDY0dTJmaXIzYm41ZmMydHdlNHQifQ.s0e5ntX9Pp0nJur9tPv2Bw";
+const API_KEY = API_KEY_HERE
 
 //CODE
 mapboxgl.accessToken = API_KEY;
