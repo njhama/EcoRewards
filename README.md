@@ -1,4 +1,7 @@
 # EcoRewards - TrojanHacks S'23 Best Hack Winner
+
+Made by Nicky Hama, Isaac Le, Jessica Lee
+
 ### Inspiration
 
 As fuel for our project brainstorming, we wanted to tackle one of the most pressing issues in the world of sustainability: climate change. From here, we looked at things that we do in our daily lives that help alleviate climate change on a micro level as well as things that granted us fulfillment in terms of helping the cause when we landed upon the idea of recycling. We agreed that the recycling process is incredibly substandard and inefficient, so we set out to build a service that would streamline recycling in a way that incentivizes ending climate change.
